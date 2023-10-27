@@ -10,5 +10,5 @@ Another paragraph
 What about [a link](https://ya.ru)?
 
 ```html
-<p>See how code is formatted<p>  
+<p>See how code is formatted</p>  
 ```
